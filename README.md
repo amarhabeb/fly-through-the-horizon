@@ -1,5 +1,6 @@
 # fly-through-the-horizon
 endless flight with endless and unexpected obstacles
+
 Week 1:
     working on pith  4H
     studying materials, coursera corse 8H
